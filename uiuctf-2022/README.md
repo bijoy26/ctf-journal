@@ -8,9 +8,8 @@
 ## 🧾 Overview
  
 <h1 align="center"><img alt="cover" src="cover.png" width="500px" /> </h1> 
-<blockquote>
-[UIUCTF](https://ctftime.org/ctf/95) is the yearly capture the flag competition run by **SIGPwny (Special interest Group for Computer Security)** from the University of Illinois at Urbana-Champaign
-</blockquote>
+
+> [UIUCTF](https://ctftime.org/ctf/95) is the yearly capture the flag competition run by **SIGPwny (Special interest Group for Computer Security)** from the University of Illinois at Urbana-Champaign
 
 
 
@@ -18,7 +17,7 @@
  
  | Challenge Name          | Points
  | --------------          | ------
- | [AR Pwny](web/ARPwny/README.md) | 50/50
+ | [AR Pwny](web/ARPwny/) | 50/50
  | Everyone's A Critic 1 | 50/50
  | Everyone's A Critic 4 | 50/50
  | Everyone's A Critic 6 | 50/50

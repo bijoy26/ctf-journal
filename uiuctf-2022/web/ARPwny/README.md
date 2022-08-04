@@ -31,7 +31,7 @@ _author: ian5v_
 
 ## 🔎 Detailed Solution
 
-### **Step 1 : Web Inspection**
+### **📌 Step 1 : Web Inspection**
 Navigating to the challenge  using a regular MS Edge browser, the webpage is basically a 3D [SIGpwny](https://sigpwny.com/) logo in interactive view.
 
 <h1 align="center"><img alt="arpwny" src="assets/front-page.png" width="400px" /> </h1> 
@@ -66,7 +66,7 @@ The author must be using an AR viewer app! (Challenge title is now making sense)
 * A peculiar _pwny.glb_ file, which should contain the model data for rendering. A quick web search shows that the **.glb** file format carries binary information about 3D scenes, models, lighting, materials and node hierarchy.
 
  
-### **Step 2 : What's in the Blackbox?**
+### **📌 Step 2 : What's in the Blackbox?**
 
 Before proceeding into forensics of the **.glb** data, let's follow the challenge instructions first.
 
@@ -75,7 +75,7 @@ Before proceeding into forensics of the **.glb** data, let's follow the challeng
 - Let's pick up a real mobile device. Any recent smartphone model should have AR compatibility out of the box. <blockquote>For iOS devices, the minimum requirement is _iOS 11_ running on _A9 chip_ (that means any device model after _iPhone 5_ would do the job).</blockquote>Installing an AR viewer app (ex: [Augment](https://www.augment.com/)) and scanning the QR code takes us into the AR experience. Suddenly there's giant virtual pwny on my workstation floor! <h1 align="center"><img alt="arpwny" src="assets/pwny-floor.png" width="400px" /></h1> Searching every nook and corner around the surface don't reveal any clue (note that I'm doing the search assuming the object has **solid fill**). Guess it's the time for plan B - digging up the model data.
 
 
-### **Step 3 : Whitebox Forensics** 
+### **📌 Step 3 : Whitebox Forensics** 
 
 Running a quick string check with `strings` tool gives following results:
 ```json
@@ -100,7 +100,7 @@ Let's inspect the JSON structure. What do we have here?
     
 Looks like the flag is sliced in halves and placed into the model, but the associated data needs to be graphically interpreted for reconstruction. 
 
-### **Step 4 : Lost in Babylon** 
+### **📌 Step 4 : Lost in Babylon** 
 
 Peeking through the extension [docs](https://github.com/AnalyticalGraphicsInc/gltf-vscode), the `Preview 3D Model` function opens the file up through a selectable rendering engine (namely _Babylon.js, Cesium_, _Filament_ or _Three.js_ ) for display.
 
@@ -147,7 +147,7 @@ uiuctf{welcome_2_the_meataverse_erm_i_meant_pwnyverse}
 
 ## 🧲 Alternative Solutions
 
-Since the model was hollow, looking carefully inside the object using an AR app in **STEP-2** would have given away the QR codes. (and save a lot of time ⌚)
+Since the model was hollow, looking carefully inside the object using an AR app in **📌 STEP-2** would have given away the QR codes. (and save a lot of time ⌚)
 <h1 align="center"><img alt="flag1" src="assets/ar_flag.png" width="250px" /> </h1> My teammate solved it via this blackbox technique. 
 
 ## 🙏 Acknowledgements

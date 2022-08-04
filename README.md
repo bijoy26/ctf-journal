@@ -20,14 +20,14 @@
  
  | Challenge Name          | Category
  | --------------          | ------
- | [AR Pwny](uiuctf-2022/web/ARPwny/README.md) | Web
+ | [AR Pwny](uiuctf-2022/web/ARPwny/) | Web
  | Everyone's A Critic 1 | 50/50
 
 ---
 ## 🎮 Event Write-ups
  | Event Name          | Date
  | --------------          | ------
- | [UIUCTF](/uiuctf-2022/README.md) | 30 JUL - 01 AUG 2022
+ | [UIUCTF](/uiuctf-2022/) | 30 JUL - 01 AUG 2022
  | [BDSEC-CTF](#)  | 20 JUL - 21 JUL 2022 
 
  
