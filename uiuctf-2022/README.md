@@ -25,10 +25,10 @@
 
 
 ## 🥇 Competition Results
-* **Event & Scoreboard:** https://ctftime.org/event/1600
-* **Contest Rating:** 34.64
-* **Team Ranking:** 91/395 place
+* **Final Rank:** 91 out of 395 
 * **Team Score:** 550 points
+* **Contest Rating:** 34.64
+* **Event & Scoreboard:** [ctfTime](https://ctftime.org/event/1600) 
 
 
 ## 🙋‍♂️ Organizer

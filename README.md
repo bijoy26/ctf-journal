@@ -6,15 +6,15 @@
 ![Category](https://img.shields.io/badge/Category-Web-lightgreen.svg)
 ![Category](https://img.shields.io/badge/Category-Forensics-lightyellow.svg)
 
-### A not-so-ambitious collection of personal write-ups solved during **Capture the Flag** contests, **Cyber Skill Competitions** and similar sort of engagements.
+### A not-so-ambitious collection of personal write-ups solved during **Capture the Flag** contests, **Cyber Skill competitions** and similar sort of engagements.
 ---
 ## 🙋‍♂️ What's Over Here?
  
-- (Verbose) problem solutions
+- My (extra verbose) problem solutions
 - Well organized contents
 - (il)logical breakdowns 
 - Custom scripts (if you're lucky)
-> Note to self: In case of fire 🔥, don't `git push --force`. Go for the water 💦 bucket instead.  
+> Note to self: In case of fire 🔥, don't `git push --force`, go for the water 💦 bucket instead.  
 ---
 ## 📚 Recent Write-ups
  
