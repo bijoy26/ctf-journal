@@ -27,7 +27,7 @@
 ## 🎮 Event Write-ups
  | Event Name          | Date
  | --------------          | ------
- | [UIUCTF](/uiuctf-2022/) | 30 JUL - 01 AUG 2022
+ | [UIUCTF](uiuctf-2022/) | 30 JUL - 01 AUG 2022
  | [BDSEC-CTF](#)  | 20 JUL - 21 JUL 2022 
 
  
