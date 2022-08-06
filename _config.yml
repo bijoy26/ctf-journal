@@ -1,0 +1,4 @@
+#Jekyll Configuration for GitHub Pages
+name: CTF Journal
+description: Bunch of vanilla write-ups for flag 🚩 hunters
+markdown: GFM
