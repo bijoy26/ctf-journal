@@ -11,7 +11,7 @@
 <blockquote>
 Welcome to the meataverse! 
 
-http:// ar-pwny-web . chal . uiuc . tf
+`http://ar-pwny-web.chal.uiuc.tf`
 
 _author: ian5v_
 </blockquote>
