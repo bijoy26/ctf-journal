@@ -30,4 +30,9 @@
  | [UIUCTF](uiuctf-2022/) | 30 JUL - 01 AUG 2022
  | [BDSEC-CTF](#)  | 20 JUL - 21 JUL 2022 
 
+ ---
+
+ ## 🔐 Security Platforms
  
+ ### TryHackMe Badge
+ <script src="https://tryhackme.com/badge/253196"></script>
