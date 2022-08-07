@@ -36,4 +36,4 @@
  
 * TryHackMe 
 
-    <img src="https://tryhackme-badges.s3.amazonaws.com/bijoy26.png" alt="TryHackMe" width="200">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bijoy26.png" alt="TryHackMe" width="240">
