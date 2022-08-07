@@ -34,5 +34,6 @@
 
  ## 🔐 Security Platforms
  
- ### TryHackMe Badge
- <script src="https://tryhackme.com/badge/253196"></script>
+* TryHackMe 
+
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bijoy26.png" alt="TryHackMe" width="200">
