@@ -34,3 +34,5 @@
 ## 🙋‍♂️ Organizer
 * **Website:** [SIGPwny](https://sigpwny.com)
 * **Closing Ceremony:** [YT Stream](https://youtu.be/OYjxHoWDhxE)
+* **Public Challenge Repo:** [CTFd + kCTF ready](https://github.com/sigpwny/UIUCTF-2022-Public/)
+
